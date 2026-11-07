@@ -102,8 +102,4 @@ Escolha uma opção:
 
 ## 👤 Autor
 
-**Seu Nome** — [LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
-
-## 📄 Licença
-
-MIT. Veja [`LICENSE`](LICENSE).
+**Elton** — [LinkedIn](www.linkedin.com/in/elton-henrique-da-silva-335aa8244)
