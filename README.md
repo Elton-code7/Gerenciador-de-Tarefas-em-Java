@@ -102,4 +102,4 @@ Escolha uma opção:
 
 ## 👤 Autor
 
-**Elton** — [LinkedIn](www.linkedin.com/in/elton-henrique-da-silva-335aa8244)
+**Elton** — [LinkedIn](https://www.linkedin.com/in/elton-henrique-da-silva-335aa8244/)
